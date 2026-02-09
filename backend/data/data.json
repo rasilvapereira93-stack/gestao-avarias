@@ -1,0 +1,1568 @@
+{
+  "config": {
+    "lines": [
+      {
+        "id": "L2",
+        "name": "CT - 10109",
+        "active": true
+      },
+      {
+        "id": "L3",
+        "name": "CT - 10110",
+        "active": true
+      },
+      {
+        "id": "L4",
+        "name": "CT - 10105",
+        "active": true
+      },
+      {
+        "id": "L5",
+        "name": "CT - 10116",
+        "active": true
+      },
+      {
+        "id": "L6",
+        "name": "CT - 10117",
+        "active": true
+      },
+      {
+        "id": "L7",
+        "name": "CT - 10115",
+        "active": true
+      },
+      {
+        "id": "L8",
+        "name": "Embaladeiras",
+        "active": true
+      }
+    ],
+    "machines": [
+      {
+        "id": "M4",
+        "lineId": "L2",
+        "number": "11002",
+        "name": "GS-2000",
+        "active": true
+      },
+      {
+        "id": "M5",
+        "lineId": "L2",
+        "number": "11003",
+        "name": "GS-2000",
+        "active": true
+      },
+      {
+        "id": "M9",
+        "lineId": "L2",
+        "number": "11004",
+        "name": "GS-2000",
+        "active": true
+      },
+      {
+        "id": "M10",
+        "lineId": "L2",
+        "number": "11005",
+        "name": "GS-2000",
+        "active": true
+      },
+      {
+        "id": "M11",
+        "lineId": "L2",
+        "number": "11006",
+        "name": "GS-2000",
+        "active": true
+      },
+      {
+        "id": "M12",
+        "lineId": "L2",
+        "number": "11007",
+        "name": "GS-2000",
+        "active": true
+      },
+      {
+        "id": "M13",
+        "lineId": "L2",
+        "number": "11008",
+        "name": "GS-2000",
+        "active": true
+      },
+      {
+        "id": "M14",
+        "lineId": "L2",
+        "number": "11009",
+        "name": "GS-2000",
+        "active": true
+      },
+      {
+        "id": "M15",
+        "lineId": "L2",
+        "number": "11010",
+        "name": "GS-2000",
+        "active": true
+      },
+      {
+        "id": "M16",
+        "lineId": "L2",
+        "number": "11013",
+        "name": "GS-2000",
+        "active": true
+      },
+      {
+        "id": "M17",
+        "lineId": "L2",
+        "number": "11001",
+        "name": "GS-2000",
+        "active": true
+      },
+      {
+        "id": "M18",
+        "lineId": "L2",
+        "number": "11818",
+        "name": "T4TRS",
+        "active": true
+      },
+      {
+        "id": "M19",
+        "lineId": "L2",
+        "number": "11817",
+        "name": "T4TRS",
+        "active": true
+      },
+      {
+        "id": "M20",
+        "lineId": "L2",
+        "number": "11812",
+        "name": "T4TRS",
+        "active": true
+      },
+      {
+        "id": "M21",
+        "lineId": "L2",
+        "number": "11903",
+        "name": "T4TR",
+        "active": true
+      },
+      {
+        "id": "M22",
+        "lineId": "L2",
+        "number": "11916",
+        "name": "T4TR",
+        "active": true
+      },
+      {
+        "id": "M23",
+        "lineId": "L2",
+        "number": "11915",
+        "name": "T4TR",
+        "active": true
+      },
+      {
+        "id": "M24",
+        "lineId": "L2",
+        "number": "11914",
+        "name": "T4TR",
+        "active": true
+      },
+      {
+        "id": "M25",
+        "lineId": "L2",
+        "number": "11913",
+        "name": "T4TR",
+        "active": true
+      },
+      {
+        "id": "M26",
+        "lineId": "L2",
+        "number": "11912",
+        "name": "T4TR",
+        "active": true
+      },
+      {
+        "id": "M27",
+        "lineId": "L2",
+        "number": "11911",
+        "name": "T4TR",
+        "active": true
+      },
+      {
+        "id": "M28",
+        "lineId": "L2",
+        "number": "11902",
+        "name": "T4TR",
+        "active": true
+      },
+      {
+        "id": "M29",
+        "lineId": "L2",
+        "number": "11918",
+        "name": "T4TR",
+        "active": true
+      },
+      {
+        "id": "M30",
+        "lineId": "L2",
+        "number": "11820",
+        "name": "T4TRE",
+        "active": true
+      },
+      {
+        "id": "M31",
+        "lineId": "L3",
+        "number": "11703",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M32",
+        "lineId": "L3",
+        "number": "11727",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M33",
+        "lineId": "L3",
+        "number": "11729",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M34",
+        "lineId": "L3",
+        "number": "11728",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M35",
+        "lineId": "L3",
+        "number": "11704",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M36",
+        "lineId": "L3",
+        "number": "11705",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M37",
+        "lineId": "L3",
+        "number": "11706",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M38",
+        "lineId": "L3",
+        "number": "11726",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M39",
+        "lineId": "L3",
+        "number": "11732",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M40",
+        "lineId": "L3",
+        "number": "11731",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M41",
+        "lineId": "L3",
+        "number": "11730",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M42",
+        "lineId": "L3",
+        "number": "11910",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M43",
+        "lineId": "L3",
+        "number": "11917",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M44",
+        "lineId": "L3",
+        "number": "11813",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M45",
+        "lineId": "L3",
+        "number": "11901",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M46",
+        "lineId": "L3",
+        "number": "11810",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M47",
+        "lineId": "L4",
+        "number": "11029",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M48",
+        "lineId": "L4",
+        "number": "11028",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M49",
+        "lineId": "L4",
+        "number": "11036",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M50",
+        "lineId": "L4",
+        "number": "11019",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M51",
+        "lineId": "L4",
+        "number": "11018",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M52",
+        "lineId": "L4",
+        "number": "11035",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M53",
+        "lineId": "L4",
+        "number": "11034",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M54",
+        "lineId": "L4",
+        "number": "11020",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M55",
+        "lineId": "L4",
+        "number": "11021",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M56",
+        "lineId": "L4",
+        "number": "11033",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M57",
+        "lineId": "L4",
+        "number": "11032",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M58",
+        "lineId": "L4",
+        "number": "11031",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M59",
+        "lineId": "L4",
+        "number": "11030",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M60",
+        "lineId": "L4",
+        "number": "11022",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M61",
+        "lineId": "L4",
+        "number": "11023",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M62",
+        "lineId": "L4",
+        "number": "11024",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M63",
+        "lineId": "L4",
+        "number": "11025",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M64",
+        "lineId": "L7",
+        "number": "11601",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M65",
+        "lineId": "L7",
+        "number": "11044",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M66",
+        "lineId": "L7",
+        "number": "11039",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M67",
+        "lineId": "L7",
+        "number": "11046",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M68",
+        "lineId": "L7",
+        "number": "11047",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M69",
+        "lineId": "L7",
+        "number": "11048",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M70",
+        "lineId": "L7",
+        "number": "11049",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M71",
+        "lineId": "L7",
+        "number": "11050",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M72",
+        "lineId": "L7",
+        "number": "11051",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M73",
+        "lineId": "L7",
+        "number": "11052",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M74",
+        "lineId": "L7",
+        "number": "11053",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M75",
+        "lineId": "L7",
+        "number": "11054",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M76",
+        "lineId": "L7",
+        "number": "11055",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M77",
+        "lineId": "L6",
+        "number": "11015",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M78",
+        "lineId": "L6",
+        "number": "11026",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M79",
+        "lineId": "L6",
+        "number": "11016",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M80",
+        "lineId": "L6",
+        "number": "11027",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M81",
+        "lineId": "L6",
+        "number": "11017",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M82",
+        "lineId": "L6",
+        "number": "ROBLON T400",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M83",
+        "lineId": "L5",
+        "number": "11071",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M84",
+        "lineId": "L5",
+        "number": "11070",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M85",
+        "lineId": "L5",
+        "number": "11069",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M86",
+        "lineId": "L5",
+        "number": "11068",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M87",
+        "lineId": "L5",
+        "number": "11067",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M88",
+        "lineId": "L5",
+        "number": "11066",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M89",
+        "lineId": "L5",
+        "number": "11065",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M90",
+        "lineId": "L5",
+        "number": "11056",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M91",
+        "lineId": "L5",
+        "number": "11057",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M92",
+        "lineId": "L5",
+        "number": "11058",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M93",
+        "lineId": "L5",
+        "number": "11059",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M94",
+        "lineId": "L5",
+        "number": "11060",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M95",
+        "lineId": "L5",
+        "number": "11061",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M96",
+        "lineId": "L5",
+        "number": "11072",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M97",
+        "lineId": "L5",
+        "number": "11040",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M98",
+        "lineId": "L5",
+        "number": "11041",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M99",
+        "lineId": "L5",
+        "number": "11042",
+        "name": "",
+        "active": true
+      },
+      {
+        "id": "M100",
+        "lineId": "L4",
+        "number": "19057",
+        "name": "Embaladeira",
+        "active": true
+      },
+      {
+        "id": "M101",
+        "lineId": "L4",
+        "number": "10105",
+        "name": "Extrusora",
+        "active": true
+      },
+      {
+        "id": "M102",
+        "lineId": "L2",
+        "number": "10109",
+        "name": "Extrusora",
+        "active": true
+      },
+      {
+        "id": "M103",
+        "lineId": "L3",
+        "number": "10110",
+        "name": "Extrusora",
+        "active": true
+      },
+      {
+        "id": "M104",
+        "lineId": "L6",
+        "number": "10117",
+        "name": "Extrusora",
+        "active": true
+      },
+      {
+        "id": "M105",
+        "lineId": "L7",
+        "number": "10115",
+        "name": "Extrusora",
+        "active": true
+      },
+      {
+        "id": "M106",
+        "lineId": "L5",
+        "number": "10116",
+        "name": "Extrusora",
+        "active": true
+      },
+      {
+        "id": "M107",
+        "lineId": "L2",
+        "number": "19081",
+        "name": "Embaladeira",
+        "active": true
+      },
+      {
+        "id": "M108",
+        "lineId": "L3",
+        "number": "19082",
+        "name": "Embaladeira",
+        "active": true
+      },
+      {
+        "id": "M109",
+        "lineId": "L7",
+        "number": "19096",
+        "name": "Embaladeira",
+        "active": true
+      },
+      {
+        "id": "M110",
+        "lineId": "L5",
+        "number": "19099",
+        "name": "Embaladeira",
+        "active": true
+      },
+      {
+        "id": "M111",
+        "lineId": "L8",
+        "number": "19060",
+        "name": "Embaladeira",
+        "active": true
+      },
+      {
+        "id": "M112",
+        "lineId": "L8",
+        "number": "19047",
+        "name": "Embaladeira",
+        "active": true
+      },
+      {
+        "id": "M113",
+        "lineId": "L8",
+        "number": "19091",
+        "name": "Embaladeira",
+        "active": true
+      }
+    ],
+    "quickObservations": [
+      {
+        "id": "Q4",
+        "text": "Cavilha",
+        "active": true
+      },
+      {
+        "id": "Q5",
+        "text": "Correia",
+        "active": true
+      },
+      {
+        "id": "Q6",
+        "text": "Guia de Sem Fim / Rodas",
+        "active": true
+      },
+      {
+        "id": "Q7",
+        "text": "Parafusos Desapertados",
+        "active": true
+      }
+    ],
+    "technicians": [
+      {
+        "id": "T1",
+        "number": "819",
+        "name": "Rui Pereira",
+        "active": true,
+        "pinHash": "",
+        "pin": {
+          "salt": "6aca2c81bc92a81a434e498760737f2a",
+          "hash": "3c6ec7f2e8fed715845992913411289c9993a59d4f34644d7419a35c7647dacc",
+          "iterations": 120000,
+          "keylen": 32,
+          "digest": "sha256"
+        }
+      },
+      {
+        "id": "T2",
+        "number": "1",
+        "name": "Rui",
+        "active": true,
+        "pin": {
+          "salt": "e7898918cd88bdd451cb2d9e4f463336",
+          "hash": "fc7608dbe937886b1fe55960f0131a832d2b4761367f42b88abf9a2492218a70",
+          "iterations": 120000,
+          "keylen": 32,
+          "digest": "sha256"
+        }
+      },
+      {
+        "id": "T3",
+        "number": "111",
+        "name": "Técnico 111",
+        "active": true,
+        "pin": {
+          "salt": "76ca967682d4602bf4c497bd129e0b00",
+          "hash": "c355b3f307c998da5adcae127df9ea3ce46c13fd3bad67552e86953044513e91",
+          "iterations": 120000,
+          "keylen": 32,
+          "digest": "sha256"
+        },
+        "team": "ELECTRICAL"
+      }
+    ]
+  },
+  "auth": {
+    "adminPin": "1234",
+    "activeTechTokens": {},
+    "activeAdminTokens": {}
+  },
+  "incidents": [
+    {
+      "id": 23,
+      "team": "ELECTRICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10110",
+      "machineNumber": "10110",
+      "reportedByOperatorNumber": "1234",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T06:26:08.959Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T06:26:08.959Z",
+          "actorType": "OPERATOR",
+          "actorId": "1234",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 1234 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10110",
+            "machineNumber": "10110",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T06:26:08.959Z",
+          "by": "OPERATOR:1234",
+          "text": "Avaria elétrica reportada. Obs: "
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "team": "MECHANICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10109",
+      "machineNumber": "11001",
+      "reportedByOperatorNumber": "1234",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T05:47:52.297Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T05:47:52.297Z",
+          "actorType": "OPERATOR",
+          "actorId": "1234",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 1234 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10109",
+            "machineNumber": "11001",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T05:47:52.297Z",
+          "by": "OPERATOR:1234",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "team": "MECHANICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10117",
+      "machineNumber": "ROBLON T400",
+      "reportedByOperatorNumber": "12321",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T05:45:51.371Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T05:45:51.371Z",
+          "actorType": "OPERATOR",
+          "actorId": "12321",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 12321 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10117",
+            "machineNumber": "ROBLON T400",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T05:45:51.371Z",
+          "by": "OPERATOR:12321",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "team": "MECHANICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10109",
+      "machineNumber": "11004",
+      "reportedByOperatorNumber": "12313",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T05:45:41.717Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T05:45:41.717Z",
+          "actorType": "OPERATOR",
+          "actorId": "12313",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 12313 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10109",
+            "machineNumber": "11004",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T05:45:41.717Z",
+          "by": "OPERATOR:12313",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "team": "MECHANICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10109",
+      "machineNumber": "11002",
+      "reportedByOperatorNumber": "123",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T05:45:35.289Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T05:45:35.289Z",
+          "actorType": "OPERATOR",
+          "actorId": "123",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 123 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10109",
+            "machineNumber": "11002",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T05:45:35.289Z",
+          "by": "OPERATOR:123",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "team": "MECHANICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10109",
+      "machineNumber": "11003",
+      "reportedByOperatorNumber": "123",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T05:45:35.286Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T05:45:35.286Z",
+          "actorType": "OPERATOR",
+          "actorId": "123",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 123 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10109",
+            "machineNumber": "11003",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T05:45:35.286Z",
+          "by": "OPERATOR:123",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "team": "MECHANICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10105",
+      "machineNumber": "11029",
+      "reportedByOperatorNumber": "1234",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T05:30:03.040Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T05:30:03.040Z",
+          "actorType": "OPERATOR",
+          "actorId": "1234",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 1234 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10105",
+            "machineNumber": "11029",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T05:30:03.040Z",
+          "by": "OPERATOR:1234",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "team": "MECHANICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10105",
+      "machineNumber": "11021",
+      "reportedByOperatorNumber": "123",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T05:28:28.225Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T05:28:28.225Z",
+          "actorType": "OPERATOR",
+          "actorId": "123",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 123 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10105",
+            "machineNumber": "11021",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T05:28:28.225Z",
+          "by": "OPERATOR:123",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "team": "MECHANICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10105",
+      "machineNumber": "11022",
+      "reportedByOperatorNumber": "12314",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T05:28:17.819Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T05:28:17.819Z",
+          "actorType": "OPERATOR",
+          "actorId": "12314",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 12314 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10105",
+            "machineNumber": "11022",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T05:28:17.819Z",
+          "by": "OPERATOR:12314",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "team": "MECHANICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10105",
+      "machineNumber": "11019",
+      "reportedByOperatorNumber": "11234",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T05:27:49.743Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T05:27:49.743Z",
+          "actorType": "OPERATOR",
+          "actorId": "11234",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 11234 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10105",
+            "machineNumber": "11019",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T05:27:49.743Z",
+          "by": "OPERATOR:11234",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "team": "MECHANICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10105",
+      "machineNumber": "11030",
+      "reportedByOperatorNumber": "2321",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T05:26:44.103Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T05:26:44.103Z",
+          "actorType": "OPERATOR",
+          "actorId": "2321",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 2321 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10105",
+            "machineNumber": "11030",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T05:26:44.103Z",
+          "by": "OPERATOR:2321",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "team": "MECHANICAL",
+      "status": "OPEN",
+      "lineName": "CT - 10105",
+      "machineNumber": "11020",
+      "reportedByOperatorNumber": "12345",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T05:26:38.039Z",
+      "assignedToTechnicianNumber": null,
+      "assignedAt": null,
+      "workStartedAt": null,
+      "resolvedAt": null,
+      "logs": [
+        {
+          "at": "2026-02-09T05:26:38.039Z",
+          "actorType": "OPERATOR",
+          "actorId": "12345",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 12345 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10105",
+            "machineNumber": "11020",
+            "quickObservations": []
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T05:26:38.039Z",
+          "by": "OPERATOR:12345",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": 27,
+      "team": "ELECTRICAL",
+      "status": "RESOLVED",
+      "lineName": "CT - 10115",
+      "machineNumber": "11601",
+      "reportedByOperatorNumber": "922",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T06:35:27.507Z",
+      "assignedToTechnicianNumber": "89002",
+      "assignedAt": "2026-02-09T06:35:27.631Z",
+      "workStartedAt": "2026-02-09T06:35:27.631Z",
+      "resolvedAt": "2026-02-09T06:35:27.635Z",
+      "logs": [
+        {
+          "at": "2026-02-09T06:35:27.507Z",
+          "actorType": "OPERATOR",
+          "actorId": "922",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 922 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10115",
+            "machineNumber": "11601",
+            "quickObservations": []
+          }
+        },
+        {
+          "at": "2026-02-09T06:35:27.631Z",
+          "actorType": "TECH",
+          "actorId": "89002",
+          "actorName": "Teste Eletrica",
+          "action": "WORK_STARTED",
+          "summary": "Técnico 89002 iniciou intervenção.",
+          "details": {
+            "workStartedAt": "2026-02-09T06:35:27.631Z"
+          }
+        },
+        {
+          "at": "2026-02-09T06:35:27.635Z",
+          "actorType": "TECH",
+          "actorId": "89002",
+          "actorName": "Teste Eletrica",
+          "action": "RESOLVED",
+          "summary": "Máquina pronta por técnico 89002.",
+          "details": {
+            "resolvedAt": "2026-02-09T06:35:27.635Z",
+            "note": "teste",
+            "partsUsed": ""
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T06:35:27.507Z",
+          "by": "OPERATOR:922",
+          "text": "Avaria elétrica reportada. Obs: "
+        }
+      ],
+      "durations": {
+        "totalDownMs": 128,
+        "timeToAssignMs": 124,
+        "timeToStartMs": 124,
+        "repairMs": 4,
+        "waitingMs": 0
+      }
+    },
+    {
+      "id": 26,
+      "team": "MECHANICAL",
+      "status": "RESOLVED",
+      "lineName": "CT - 10115",
+      "machineNumber": "11601",
+      "reportedByOperatorNumber": "911",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T06:35:27.504Z",
+      "assignedToTechnicianNumber": "99002",
+      "assignedAt": "2026-02-09T06:35:27.622Z",
+      "workStartedAt": "2026-02-09T06:35:27.622Z",
+      "resolvedAt": "2026-02-09T06:35:27.627Z",
+      "logs": [
+        {
+          "at": "2026-02-09T06:35:27.504Z",
+          "actorType": "OPERATOR",
+          "actorId": "911",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 911 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10115",
+            "machineNumber": "11601",
+            "quickObservations": []
+          }
+        },
+        {
+          "at": "2026-02-09T06:35:27.622Z",
+          "actorType": "TECH",
+          "actorId": "99002",
+          "actorName": "Teste Mecanica",
+          "action": "WORK_STARTED",
+          "summary": "Técnico 99002 iniciou intervenção.",
+          "details": {
+            "workStartedAt": "2026-02-09T06:35:27.622Z"
+          }
+        },
+        {
+          "at": "2026-02-09T06:35:27.627Z",
+          "actorType": "TECH",
+          "actorId": "99002",
+          "actorName": "Teste Mecanica",
+          "action": "RESOLVED",
+          "summary": "Máquina pronta por técnico 99002.",
+          "details": {
+            "resolvedAt": "2026-02-09T06:35:27.627Z",
+            "note": "teste",
+            "partsUsed": ""
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T06:35:27.504Z",
+          "by": "OPERATOR:911",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ],
+      "durations": {
+        "totalDownMs": 123,
+        "timeToAssignMs": 118,
+        "timeToStartMs": 118,
+        "repairMs": 5,
+        "waitingMs": 0
+      }
+    },
+    {
+      "id": 25,
+      "team": "ELECTRICAL",
+      "status": "RESOLVED",
+      "lineName": "CT - 10115",
+      "machineNumber": "11601",
+      "reportedByOperatorNumber": "222",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T06:34:37.761Z",
+      "assignedToTechnicianNumber": "9002",
+      "assignedAt": "2026-02-09T06:34:38.182Z",
+      "workStartedAt": "2026-02-09T06:34:38.182Z",
+      "resolvedAt": "2026-02-09T06:34:38.220Z",
+      "logs": [
+        {
+          "at": "2026-02-09T06:34:37.761Z",
+          "actorType": "OPERATOR",
+          "actorId": "222",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 222 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10115",
+            "machineNumber": "11601",
+            "quickObservations": []
+          }
+        },
+        {
+          "at": "2026-02-09T06:34:38.182Z",
+          "actorType": "TECH",
+          "actorId": "9002",
+          "actorName": "Teste Eletrica",
+          "action": "WORK_STARTED",
+          "summary": "Técnico 9002 iniciou intervenção.",
+          "details": {
+            "workStartedAt": "2026-02-09T06:34:38.182Z"
+          }
+        },
+        {
+          "at": "2026-02-09T06:34:38.220Z",
+          "actorType": "TECH",
+          "actorId": "9002",
+          "actorName": "Teste Eletrica",
+          "action": "RESOLVED",
+          "summary": "Máquina pronta por técnico 9002.",
+          "details": {
+            "resolvedAt": "2026-02-09T06:34:38.220Z",
+            "note": "teste",
+            "partsUsed": ""
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T06:34:37.761Z",
+          "by": "OPERATOR:222",
+          "text": "Avaria elétrica reportada. Obs: "
+        }
+      ],
+      "durations": {
+        "totalDownMs": 459,
+        "timeToAssignMs": 421,
+        "timeToStartMs": 421,
+        "repairMs": 38,
+        "waitingMs": 0
+      }
+    },
+    {
+      "id": 24,
+      "team": "MECHANICAL",
+      "status": "RESOLVED",
+      "lineName": "CT - 10115",
+      "machineNumber": "11601",
+      "reportedByOperatorNumber": "111",
+      "quickObservations": [],
+      "openedAt": "2026-02-09T06:34:37.705Z",
+      "assignedToTechnicianNumber": "9001",
+      "assignedAt": "2026-02-09T06:34:38.064Z",
+      "workStartedAt": "2026-02-09T06:34:38.064Z",
+      "resolvedAt": "2026-02-09T06:34:38.147Z",
+      "logs": [
+        {
+          "at": "2026-02-09T06:34:37.705Z",
+          "actorType": "OPERATOR",
+          "actorId": "111",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 111 reportou avaria.",
+          "details": {
+            "lineName": "CT - 10115",
+            "machineNumber": "11601",
+            "quickObservations": []
+          }
+        },
+        {
+          "at": "2026-02-09T06:34:38.064Z",
+          "actorType": "TECH",
+          "actorId": "9001",
+          "actorName": "Teste Mecanica",
+          "action": "WORK_STARTED",
+          "summary": "Técnico 9001 iniciou intervenção.",
+          "details": {
+            "workStartedAt": "2026-02-09T06:34:38.064Z"
+          }
+        },
+        {
+          "at": "2026-02-09T06:34:38.147Z",
+          "actorType": "TECH",
+          "actorId": "9001",
+          "actorName": "Teste Mecanica",
+          "action": "RESOLVED",
+          "summary": "Máquina pronta por técnico 9001.",
+          "details": {
+            "resolvedAt": "2026-02-09T06:34:38.147Z",
+            "note": "teste",
+            "partsUsed": ""
+          }
+        }
+      ],
+      "notes": [
+        {
+          "at": "2026-02-09T06:34:37.705Z",
+          "by": "OPERATOR:111",
+          "text": "Avaria mecânica reportada. Obs: "
+        }
+      ],
+      "durations": {
+        "totalDownMs": 442,
+        "timeToAssignMs": 359,
+        "timeToStartMs": 359,
+        "repairMs": 83,
+        "waitingMs": 0
+      }
+    }
+  ],
+  "sseClients": [],
+  "nextIncidentId": 28
+}

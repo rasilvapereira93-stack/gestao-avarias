@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "version": 1,
+    "createdAt": "2026-02-02T00:56:02.436Z"
+  },
+  "nextIds": {
+    "incident": 3,
+    "line": 2,
+    "machine": 2,
+    "quickObs": 4,
+    "tech": 2
+  },
+  "lines": [
+    {
+      "id": "L1",
+      "name": "10.105",
+      "active": true
+    }
+  ],
+  "machines": [
+    {
+      "id": "M1",
+      "lineId": "L1",
+      "number": "11018",
+      "name": "GS-2000",
+      "active": true
+    }
+  ],
+  "quickObservations": [
+    {
+      "id": "Q3",
+      "text": "Correia",
+      "active": true
+    },
+    {
+      "id": "Q4",
+      "text": "Encravamento",
+      "active": true
+    },
+    {
+      "id": "Q5",
+      "text": "Vibração",
+      "active": true
+    },
+    {
+      "id": "Q1",
+      "text": "Cavilha",
+      "active": true
+    },
+    {
+      "id": "Q3",
+      "text": "Guia Sem Fim / Rodas",
+      "active": true
+    }
+  ],
+  "technicians": [
+    {
+      "id": "T1",
+      "number": "819",
+      "name": "Rui Pereira",
+      "active": true,
+      "pin": {
+        "salt": "6b42d9379cc98ab5ca18a8e1ec5c05a3",
+        "hash": "3e6851d92a525ba5a485ad41a44c99de91f8641f0e815d6a4b64a234cb1e4646",
+        "iterations": 120000,
+        "keylen": 32,
+        "digest": "sha256"
+      }
+    }
+  ],
+  "incidents": [
+    {
+      "id": 2,
+      "team": "MECHANICAL",
+      "status": "RESOLVED",
+      "lineName": "10.105",
+      "machineNumber": "11018",
+      "reportedByOperatorNumber": "111",
+      "quickObservations": [
+        "Correia"
+      ],
+      "openedAt": "2026-02-02T01:19:26.571Z",
+      "assignedToTechnicianNumber": "819",
+      "assignedAt": "2026-02-02T01:19:33.429Z",
+      "workStartedAt": "2026-02-02T01:19:33.926Z",
+      "resolvedAt": "2026-02-02T01:19:38.397Z",
+      "logs": [
+        {
+          "at": "2026-02-02T01:19:26.571Z",
+          "actorType": "OPERATOR",
+          "actorId": "111",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 111 reportou avaria.",
+          "details": {
+            "lineName": "10.105",
+            "machineNumber": "11018",
+            "quickObservations": [
+              "Correia"
+            ]
+          }
+        },
+        {
+          "at": "2026-02-02T01:19:33.429Z",
+          "actorType": "TECH",
+          "actorId": "819",
+          "actorName": "Técnico 819",
+          "action": "ASSIGNED",
+          "summary": "Técnico 819 assumiu.",
+          "details": {
+            "status": "ASSIGNED"
+          }
+        },
+        {
+          "at": "2026-02-02T01:19:33.926Z",
+          "actorType": "TECH",
+          "actorId": "819",
+          "actorName": "Técnico 819",
+          "action": "WORK_STARTED",
+          "summary": "Técnico 819 iniciou intervenção.",
+          "details": {
+            "workStartedAt": "2026-02-02T01:19:33.926Z"
+          }
+        },
+        {
+          "at": "2026-02-02T01:19:38.397Z",
+          "actorType": "TECH",
+          "actorId": "819",
+          "actorName": "Técnico 819",
+          "action": "RESOLVED",
+          "summary": "Máquina pronta por técnico 819.",
+          "details": {
+            "resolvedAt": "2026-02-02T01:19:38.397Z",
+            "note": "",
+            "partsUsed": "12"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "team": "MECHANICAL",
+      "status": "RESOLVED",
+      "lineName": "10.105",
+      "machineNumber": "11018",
+      "reportedByOperatorNumber": "1123",
+      "quickObservations": [
+        "Cavilha"
+      ],
+      "openedAt": "2026-02-02T01:00:06.246Z",
+      "assignedToTechnicianNumber": "819",
+      "assignedAt": "2026-02-02T01:00:43.968Z",
+      "workStartedAt": "2026-02-02T01:00:46.457Z",
+      "resolvedAt": "2026-02-02T01:00:55.612Z",
+      "logs": [
+        {
+          "at": "2026-02-02T01:00:06.246Z",
+          "actorType": "OPERATOR",
+          "actorId": "1123",
+          "actorName": null,
+          "action": "REPORTED",
+          "summary": "Operador 1123 reportou avaria.",
+          "details": {
+            "lineName": "10.105",
+            "machineNumber": "11018",
+            "quickObservations": [
+              "Cavilha"
+            ]
+          }
+        },
+        {
+          "at": "2026-02-02T01:00:43.968Z",
+          "actorType": "TECH",
+          "actorId": "819",
+          "actorName": "Técnico 819",
+          "action": "ASSIGNED",
+          "summary": "Técnico 819 assumiu.",
+          "details": {
+            "status": "ASSIGNED"
+          }
+        },
+        {
+          "at": "2026-02-02T01:00:46.457Z",
+          "actorType": "TECH",
+          "actorId": "819",
+          "actorName": "Técnico 819",
+          "action": "WORK_STARTED",
+          "summary": "Técnico 819 iniciou intervenção.",
+          "details": {
+            "workStartedAt": "2026-02-02T01:00:46.457Z"
+          }
+        },
+        {
+          "at": "2026-02-02T01:00:55.612Z",
+          "actorType": "TECH",
+          "actorId": "819",
+          "actorName": "Técnico 819",
+          "action": "RESOLVED",
+          "summary": "Máquina pronta por técnico 819.",
+          "details": {
+            "resolvedAt": "2026-02-02T01:00:55.612Z",
+            "note": "",
+            "partsUsed": ""
+          }
+        }
+      ]
+    }
+  ]
+}
