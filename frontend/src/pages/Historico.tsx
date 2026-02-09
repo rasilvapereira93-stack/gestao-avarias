@@ -58,7 +58,6 @@ function toCsv(rows: any[]) {
 }
 
 export default function Historico() {
-  const [role, setRole] = useState<"TECH" | "ADMIN" | null>(null);
   const [items, setItems] = useState<Incident[]>([]);
   const [loading, setLoading] = useState(false);
 
@@ -89,7 +88,6 @@ export default function Historico() {
       const res = await fetch(`${API_BASE}/history?${qs.toString()}`, { headers: { [headerName]: token } as any });
       const data = await safeJson(res);
       if (!res.ok) throw new Error(data?.error ?? "Erro");
-      setRole(data.role ?? null);
       setItems(data.history ?? []);
     } catch (e: any) {
       alert(e?.message ?? "Erro");
